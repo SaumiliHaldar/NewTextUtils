@@ -22,7 +22,7 @@ TextUtils is a simple Django project or website for analyzing text data. It prov
 - Django
 
 ## Credits :
-This project is created by Saumili Haldar.
+This project was edited by Saumili Haldar.
 
 ## Contributing :
 Contributions are welcome! Feel free to fork this repository and submit pull requests to suggest improvements.
